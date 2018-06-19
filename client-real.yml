@@ -1,2 +1,4 @@
 spring:
     profiles: real
+  
+messages: real
