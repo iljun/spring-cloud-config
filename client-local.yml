@@ -2,4 +2,4 @@ spring:
     profiles: local
 
 test:
-  messages: local
+  messages: local test
