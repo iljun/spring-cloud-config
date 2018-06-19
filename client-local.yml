@@ -1,4 +1,5 @@
 spring:
     profiles: local
 
-messages: local
+test:
+  messages: local
