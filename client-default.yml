@@ -2,4 +2,4 @@ spring:
     profiles: default
 
 test:
-  messages: default update
+  messages: default update refresh
