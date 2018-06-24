@@ -2,4 +2,4 @@ spring:
     profiles: local
 
 test:
-  messages: refresh annotation update rabbitmq test
+  messages: webhook update
